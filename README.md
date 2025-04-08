@@ -1,57 +1,51 @@
-👋 Hey there! I'm Amit Sharma
-I'm a passionate Software Developer with a strong foundation in Backend Development, Data Structures & Algorithms, and a love for building scalable and efficient systems.
+# 👋 Hey there! I'm Amit Sharma
 
-💼 About Me
-🎯 Focused on delivering high-quality, maintainable backend solutions using modern technologies.
-📚 Strong grip on Core Java, Advanced Java, and Object-Oriented Programming (OOP) principles.
-🚀 Continuously learning and exploring areas like Microservices, Cloud Native Development, and CI/CD Pipelines.
+I'm a passionate **Software Developer** with a strong foundation in **Backend Development**, **Data Structures & Algorithms**, and a love for building scalable and efficient systems.
 
-🧠 Skills & Technologies
-💻 Programming Languages
-Java (Core & Advanced)
+---
 
-Python
+## 💼 About Me
 
-C, C++
+🎯 Focused on delivering high-quality, maintainable backend solutions using modern technologies.  
+📚 Strong grip on **Core Java**, **Advanced Java**, and **Object-Oriented Programming (OOP)** principles.  
+🚀 Continuously learning and exploring areas like **Microservices**, **Cloud Native Development**, and **CI/CD Pipelines**.
 
-⚙️ Backend Development
-Spring Boot
+---
 
-RESTful APIs
+## 🧠 Skills & Technologies
 
-Microservices Architecture
+### 💻 Programming Languages
+- Java (Core & Advanced)
+- Python
+- C, C++
 
-🗄️ Databases
-MySQL
+### ⚙️ Backend Development
+- Spring Boot
+- RESTful APIs
+- Microservices Architecture
 
-SQL
+### 🗄️ Databases
+- MySQL
+- SQL
 
-📦 DevOps & Tools
-Docker
+### 📦 DevOps & Tools
+- Docker
+- Kubernetes
+- CI/CD (Continuous Integration & Delivery)
+- Git & GitHub
+- Linux (Ubuntu, CentOS)
+- IntelliJ IDEA
+- Jira
 
-Kubernetes
+### 📊 Computer Science
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- System Design Basics
 
-CI/CD (Continuous Integration & Delivery)
+---
 
-Git & GitHub
+## 🔗 Connect With Me
 
-Linux (Ubuntu, CentOS)
-
-IntelliJ IDEA
-
-Jira
-
-📊 Computer Science
-Data Structures & Algorithms (DSA)
-
-Object-Oriented Programming (OOP)
-
-System Design Basics
-
-🔗 Connect With Me
-🌐 LinkedIn
-
-💻 GitHub
-
-🧩 LeetCode
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 💻 [GitHub](https://github.com/65amit)
+- 🧩 [LeetCode](https://leetcode.com/u/65Amit/)
